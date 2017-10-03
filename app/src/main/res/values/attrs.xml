@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditToolBar">
+        <attr name="rightButtonIcon" format="reference"></attr>
+        <attr name="centerTitle" format="string"></attr>
+    </declare-styleable>
+    
+    <declare-styleable name="RandomColorCircleView">
+        <attr name="color" format="color"></attr>
+    </declare-styleable>
+</resources>
